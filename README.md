@@ -27,6 +27,8 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+Here is the link to the deployed application 
+https://chelseyvalerio.github.io/weekday-scheduler/
 
 The following screenshots demonstrate the application functionality:
 
